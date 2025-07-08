@@ -1,0 +1,37 @@
+.main-div{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+    background: radial-gradient(rgb(7, 7, 7),rgb(17, 79, 90));
+}
+#title{
+    color:azure;
+    font-variant: small-caps;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content{
+    height: 5vh;
+    display: flex;
+    margin: 8px;
+}
+#reset{
+    height: 3vh;
+    margin: 10px;
+}
+#calculate{
+    height: 3vh;
+    margin: 10px;
+}
+.button{
+    display:flex;
+
+}
+.output.content{
+    color:azure;
+}
+.C1{
+    border:rgb(206, 198, 198) solid;
+    color: azure;
+}

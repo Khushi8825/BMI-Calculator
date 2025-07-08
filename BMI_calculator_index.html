@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet"  href="BMI_calculator_style.css"></link>
+    <title>BMI Calculator</title>
+</head>
+<body>
+    <div class="main-div">
+        <h1 class="content" id="title">Bmi Calculator</h1>
+        <input class="content" type="number" id="weight" placeholder="Enter your weight(in kg)">
+        <input class="content" type="number" id="height" placeholder="Enter your height(in cm)">
+        <div class = "content button">
+            <button id="calculate">Calculate</button>
+            <button id="reset">Reset</button>
+        </div>
+            <div class="output content">
+            <!-- output -->
+        </div>
+    <table class="table1">
+        <thead>
+            <tr>
+                <td class="C1"  style="font-weight: bold;">BMI Range(kg/m<sub>2</sub>)</th>
+                <td class="C1"  style="font-weight: bold;">Category</th>
+            </tr>
+        </thead> 
+        <tbody>
+            <tr>
+                <td class="C1">Less than 18.5</td>
+                <td class="C1">Underweight</td>
+            </tr>
+            <tr>
+                <td class="C1">
+                     18.5 - 24.9
+                </td>
+                <td class="C1">Normal Weight</td>
+            </tr>
+            <tr> 
+                <td class="C1">
+                    25 - 29.9
+                </td>
+                <td class="C1">
+                    Overweight
+                </td>
+            </tr>
+            <tr>
+                <td class="C1">
+                    30 and above
+                </td>
+                <td class="C1"> 
+                    Obese
+                </td>
+            </tr>
+        </tbody>      
+    </table>
+    </div>
+</body>
+<script src="BMI_claculator_script.js"></script>
+</html>
