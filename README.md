@@ -2,14 +2,6 @@
 
 A **simple and responsive Body Mass Index (BMI) Calculator** web app that calculates your BMI based on your height and weight, and classifies your result into health categories.
 
----
-
-## 🌐 Live Demo  
-🔗 [Click here to try it out](https://your-github-username.github.io/bmi-calculator)  
-*(Replace with your actual GitHub Pages link if hosted)*
-
----
-
 ## 🔧 Features
 
 - 🧍 Enter height (in cm) and weight (in kg)
@@ -47,5 +39,6 @@ A **simple and responsive Body Mass Index (BMI) Calculator** web app that calcul
 
 ---
 
-## 🗂️ Project Structure
+
+
 
