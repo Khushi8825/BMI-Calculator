@@ -10,7 +10,7 @@ A **simple and responsive Body Mass Index (BMI) Calculator** web app that calcul
 - ⚠️ Handles invalid inputs gracefully
 - 🔁 Reset button to clear all fields
 
----
+```
 
 ## 📐 Formula
 
@@ -18,7 +18,7 @@ A **simple and responsive Body Mass Index (BMI) Calculator** web app that calcul
 \text{BMI} = \frac{\text{weight (kg)}}{(\text{height (m)})^2}
 \]
 
----
+```
 
 ## 💡 BMI Categories
 
